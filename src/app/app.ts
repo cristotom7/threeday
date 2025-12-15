@@ -1,7 +1,11 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+<<<<<<< HEAD
 import { Card } from './card/card'; 
 import { Navbar } from './navbar/navbar';
+=======
+import { Navbar } from "./navbar/navbar";
+>>>>>>> 85f96380dc05ed69e1b2e66e31ab758713e45ad0
 import { Footer } from "./footer/footer";
 
 @Component({
@@ -11,6 +15,7 @@ import { Footer } from "./footer/footer";
   styleUrl: './app.css'
 })
 export class App {
+<<<<<<< HEAD
 collegename = "Amal Jyothi College of Engineering"
 
 person={
@@ -20,4 +25,7 @@ person={
 }
  protected readonly title = signal('xxxx');
   
+=======
+  protected readonly title = signal('ac');
+>>>>>>> 85f96380dc05ed69e1b2e66e31ab758713e45ad0
 }

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Xxxx
+=======
+# Ac
+>>>>>>> 85f96380dc05ed69e1b2e66e31ab758713e45ad0
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.1.
 

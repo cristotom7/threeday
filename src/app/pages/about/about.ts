@@ -8,4 +8,8 @@ import { Component } from '@angular/core';
 })
 export class About {
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 85f96380dc05ed69e1b2e66e31ab758713e45ad0
